@@ -10,7 +10,7 @@ A very simple `String` extension for trimming strings, written in Swift, just fo
 example:
 ```swift
 println(“   Hello, world  “.trim()) // “Hello, world” 
-``
+```
 
 ## Author
 Website: [pedrovieira.me](http://pedrovieira.me/)<br>
